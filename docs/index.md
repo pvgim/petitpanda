@@ -1,14 +1,7 @@
 <header>
-    <font color = darkslategrey>
         <h1 style="text-align:center;">Python pour un Economiste</h1>
-        <h3 style="text-align:center;">Classification des stratégies d'auto-présentation de grandes entreprises</h3>
-    </font>
+        <h3 style="text-align:center;">Classification des stratégies d'auto-présentation de grandes entreprises : <b> Sorties Bokeh</b></h3>
 </header>
-
-
-<div>
-    <p style="text-align:center;font:courier">Sorties Bokeh</p>
-</div>
 
 <h2 style="color:midnightblue;background-color:whitesmoke;margin:0px">Localisation des entreprises</h2>
 
